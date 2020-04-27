@@ -1,6 +1,6 @@
 sonar.host.url=http://10.17.40.164:9000
-sonar.projectKey=Blackduckscan
-sonar.projectName=Blackduckscan
+sonar.projectKey=blackduckscan
+sonar.projectName=blackduckscan
 sonar.projectVersion=1.0
 
 sonar.sources=C:\Jenkins\workspace\integrated_pipeline_2\src\com\rocketsoftware
