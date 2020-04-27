@@ -3,4 +3,4 @@ sonar.projectKey=Blackduckscan
 sonar.projectName=Blackduckscan
 sonar.projectVersion=1.0
 
-sonar.sources=C:/Jenkins/workspace/blackduckscan/blackduckscan/java/src/com/rocketsoftware
+sonar.sources=C:\Jenkins\workspace\integrated_pipeline_2\src\com\rocketsoftware
