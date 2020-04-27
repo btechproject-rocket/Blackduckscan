@@ -1,0 +1,6 @@
+sonar.host.url=http://10.17.40.164:9000
+sonar.projectKey=pune-interns1
+sonar.projectName=pune-interns1
+sonar.projectVersion=1.0
+
+sonar.sources=C:/Jenkins/workspace/blackduckscan/blackduckscan/java/src/com/rocketsoftware
